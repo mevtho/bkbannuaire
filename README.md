@@ -17,7 +17,7 @@ In case you need any support, feel free to reach out nonetheless.
 
 ## Getting started
 
-The db folder contains the DB creation script.
+The db folder contains the DB creation script. The name of tables but the ville one have to be updated according to the key in the saison.php file
 
 The file rsc/config.php has to be created from config.example.php to set the database connection.
 
